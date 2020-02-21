@@ -1,6 +1,3 @@
-# java_basic_algorism
-#DO IT 자바자료구조 
-
 public class q1_1 {
 	static int max4(int a, int b, int c, int d) {
 		int max = a;
